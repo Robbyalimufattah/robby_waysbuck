@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("http://fonts.cdnfonts.com/css/product-sans");
+@font-face {
+  font-family: "Freight";
+  src: local("Freight"),
+    url(../fonts/Freight-Sans-Black-SC.otf) format("truetype");
+}
+@font-face {
+  font-family: "Avenir-Black";
+  src: local("Avenir-Black"), url(../fonts/Avenir-Black.otf) format("truetype");
+}
+@font-face {
+  font-family: "Avenir-Book";
+  src: local("Avenir-Book"), url(../fonts/Avenir-Book.otf) format("truetype");
+}
+@font-face {
+  font-family: "Avenir-Roman";
+  src: local("Avenir-Roman"), url(../fonts/Avenir-Roman.otf) format("truetype");
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}

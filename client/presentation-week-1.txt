@@ -1,0 +1,36 @@
+page 1
+nama project
+nama developer
+preview landingpage
+teknologi yg digunakan
+
+page 2
+perkenalan diri
+
+page 3
+teknologi yang digunakan
+dependencies
+css
+
+page
+lama pengerjaan
+task (berapa task)
+progress (bar, persen)
+
+page
+kesulitan yang dihadapi
+
+page
+screenshot landing page (before login and after login)
+screenshot menu, profile page
+transaction page,
+POKOKNYA SEMUA PAGE
+
+demo waysbucks
+
+penjelasan code
+
+repo project
+https://github.com/karunialeo/karunialeo_waysbucks
+
+terima kasih
